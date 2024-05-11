@@ -1,1 +1,1 @@
-<a href="https://omeryargi.github.io/BaykarScript.github.io/">Baykar Script App github.io</a>
+<a href="https://omeryargi.github.io/BaykarScript.github.io/">Baykar Quiz App Live</a>
